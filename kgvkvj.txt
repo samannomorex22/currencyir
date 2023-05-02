@@ -1,0 +1,4 @@
+vless://d552426e-7725-4d2e-dc46-c9c5b778ba0f@pricing.arzyab.org:80?security=&type=ws&path=/#%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%20%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C%20-%202
+vless://72b2cd3f-ae88-4c67-b260-dda7f1d5a06c@miror.arzyab.org:80?security=&type=ws&path=/#%D8%A7%D9%84%D9%85%D8%A7%D9%86%20-%20%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C
+vless://8debf57c-d09b-4b28-c12a-a7918d31d097@miror2.arzyab.org:80?security=&type=ws&path=/#%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%20-%20%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C
+vless://3a18d5af-7f3c-474c-d1ff-865d604b9014@miror3.arzyab.org:80?security=&type=ws&path=/#%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%20-%20%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C%20
