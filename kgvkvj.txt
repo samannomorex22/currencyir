@@ -1,1 +1,1 @@
-vless://4669b447-b5a8-4a7e-b8a0-9231a8326159@fk.thebirdnest.site:80?security=tls&sni=sub.sony.com/1update-sub/&allowInsecure=1&type=ws&path=/#vl-rpdegiq5
+vless://5b790c85-13f5-44e6-8e91-634e2c65e6e1@ln.thebirdnest.site:80?encryption=none&security=tls&sni=telewebion.com&type=ws&path=%2F#ln-ej7ze6fo
