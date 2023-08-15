@@ -1,2 +1,1 @@
-vless://ec3cf124-2d6a-405c-b1bd-f72d44b2136d@vi.thebirdnest.site:80?security=tls&sni=telewebion.com&allowInsecure=1&type=ws&path=/&encryption=none#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20-%20%D8%AC%D8%AF%DB%8C%D8%AF%20%D8%AC%D8%AF%DB%8C%D8%AF
-vless://818fdb58-580f-42f1-a739-da85063342d9@tst.sportxdaily.com:443?security=tls&sni=telewebion.com&allowInsecure=1&fp=chrome&type=ws&path=/&encryption=none#%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%D8%AC%D8%AF%DB%8C%D8%AF%20NEW%20
+vless://832b3dad-f9cf-4399-b83a-16ece21e7ee0@arvancloud.ir:443?sni=habib.outlowbugt.shop&security=tls&type=ws&path=/&host=habib.outlowbugt.shop#acc-Sadegh2
