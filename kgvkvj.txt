@@ -1,1 +1,3 @@
-vless://832b3dad-f9cf-4399-b83a-16ece21e7ee0@arvancloud.ir:443?security=tls&sni=habib.outlowbugt.shop&fp=randomized&type=ws&path=/&host=habib.outlowbugt.shop&encryption=none#acc-Sadegh2
+vless://a7dbaba2-a7e7-4a74-b1cf-89a26651f19d@jgj.thebirdnest.site:443?security=tls&sni=varzesh3.com&allowInsecure=1&fp=randomized&type=ws&path=/&encryption=none#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20-%20%D9%87%D9%85%D9%87%20%D8%AC%D8%A7
+vless://91becff7-8116-451a-8e59-e9113efd7d20@md.thebirdnest.site:443?security=tls&sni=varzesh3.com&allowInsecure=1&type=ws&path=/&encryption=none#%D9%87%D9%85%D9%87%20%D8%AC%D8%A7
+vless://c682e71a-5637-4811-a0fc-3dfa3015df64@os.thebirdnest.site:443?security=tls&sni=varzesh3.com&allowInsecure=1&type=ws&path=/&encryption=none#%D9%87%D9%85%D9%87%20%D8%AC%D8%A7%20-%20%D9%87%D9%84%D9%86%D8%AF
