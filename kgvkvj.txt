@@ -1,1 +1,1 @@
-vless://8ed6a40b-ca30-4a73-a2c5-e00b73a07910@cc.thebirdnest.site:80?security=tls&sni=telewebion.com&allowInsecure=1&type=ws&path=/&encryption=none#%D8%A7%D8%AA%D8%B1%DB%8C%D8%B4%20-%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
+vless://8ed6a40b-ca30-4a73-a2c5-e00b73a07910@cc.thebirdnest.site:80?security=tls&sni=telewebion.com&allowInsecure=1&type=ws&path=/&encryption=none#%D8%A7%D8%AA%D8%B1%DB%8C%D8%B4%202%20-%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
