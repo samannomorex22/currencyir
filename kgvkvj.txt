@@ -1,3 +1,1 @@
-vless://a7dbaba2-a7e7-4a74-b1cf-89a26651f19d@jgj.thebirdnest.site:443?security=tls&sni=varzesh3.com&allowInsecure=1&fp=randomized&type=ws&path=/&encryption=none#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20-%20%D9%87%D9%85%D9%87%20%D8%AC%D8%A7
-vless://91becff7-8116-451a-8e59-e9113efd7d20@md.thebirdnest.site:443?security=tls&sni=varzesh3.com&allowInsecure=1&type=ws&path=/&encryption=none#%D9%87%D9%85%D9%87%20%D8%AC%D8%A7
-vless://c682e71a-5637-4811-a0fc-3dfa3015df64@os.thebirdnest.site:443?security=tls&sni=varzesh3.com&allowInsecure=1&type=ws&path=/&encryption=none#%D9%87%D9%85%D9%87%20%D8%AC%D8%A7%20-%20%D9%87%D9%84%D9%86%D8%AF
+vless://8ed6a40b-ca30-4a73-a2c5-e00b73a07910@cc.thebirdnest.site:80?security=tls&sni=telewebion.com&allowInsecure=1&type=ws&path=/&encryption=none#%D8%A7%D8%AA%D8%B1%DB%8C%D8%B4%20-%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
