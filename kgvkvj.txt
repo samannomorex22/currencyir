@@ -1,1 +1,2 @@
 vless://8ed6a40b-ca30-4a73-a2c5-e00b73a07910@cc.thebirdnest.site:80?security=tls&sni=varzesh3.com&allowInsecure=1&type=ws&path=/&encryption=none#%D8%A7%D8%AA%D8%B1%DB%8C%D8%B4%203%20-%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
+vless://0f0c29e3-860d-46b9-a17b-9600ed1a1ec6@new.thebirdnest.site:80?security=tls&sni=varzesh3.com&allowInsecure=1&type=ws&path=/&encryption=none#%D9%84%D9%86%D8%AF%D9%86%20-%20%D8%AC%D8%AF%DB%8C%D8%AF%20%202
