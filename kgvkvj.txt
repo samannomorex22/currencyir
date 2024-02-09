@@ -1,1 +1,1 @@
-vless://ca128120-01a9-44a5-b9eb-1ccf77933508@162.251.82.4:443?sni=fr.thebirdnest.site&allowInsecure=1&security=tls&type=ws&path=/&host=fr.thebirdnest.site#فرانسه
+vless://ca128120-01a9-44a5-b9eb-1ccf77933508@162.251.82.4:443?sni=fr.thebirdnest.site&allowInsecure=1&security=tls&type=ws&path=/&host=fr.thebirdnest.site#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87
