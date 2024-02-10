@@ -1,1 +1,1 @@
-vless://ca128120-01a9-44a5-b9eb-1ccf77933508@162.251.82.4:443?sni=fr.thebirdnest.site&allowInsecure=1&security=tls&type=ws&path=/&host=fr.thebirdnest.site#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87
+vless://b9f17a3f-6b34-4e84-b887-3e93c41c9734@blog.bigdotbags.tech:443?security=tls&allowInsecure=1&fp=randomized&type=ws&path=/&host=mamba.bigdotbags.tech&encryption=none#%D8%A7%D9%84%D9%85%D8%A7%D9%86%20%D9%85%D9%88%D9%82%D8%AA
