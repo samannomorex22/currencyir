@@ -1,0 +1,2 @@
+vless://b9f17a3f-6b34-4e84-b887-3e93c41c9734@mamba.bigbagsbags.site:443?security=tls&allowInsecure=1&fp=randomized&type=ws&path=/&host=mamba.bigdotbags.tech&encryption=none#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20-%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%AF%D9%88%D9%85
+vless://e0fa6c8a-c4a4-4bfd-9c47-5f052d8ed974@mama.bigbagsbags.site:443?security=tls&allowInsecure=1&fp=randomized&type=ws&path=/&host=mama.bigdotbags.tech&encryption=none#%D9%87%D9%84%D9%86%D8%AF%20-%20%D9%88%D8%B1%DA%98%D9%86%20%D8%A2%D8%AE%D8%B1
