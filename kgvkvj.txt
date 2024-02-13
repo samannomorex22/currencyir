@@ -1,1 +1,1 @@
-vless://b9f17a3f-6b34-4e84-b887-3e93c41c9734@blog.bigdotbags.tech:443?security=tls&allowInsecure=1&fp=randomized&type=ws&path=/&host=mamba.bigdotbags.tech&encryption=none#%D8%A7%D9%84%D9%85%D8%A7%D9%86%20%D9%85%D9%88%D9%82%D8%AA
+vless://106213d9-5fa1-40de-a1d9-1f203e9697fe@104.17.113.45:443?sni=api.konjednest.cfd&allowInsecure=1&security=tls&type=ws&path=/&host=api.konjednest.cfd#Grmy-0lboral8
