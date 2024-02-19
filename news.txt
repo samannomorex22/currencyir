@@ -1,1 +1,1 @@
-vless://b9f17a3f-6b34-4e84-b887-3e93c41c9734@mamba.bigdotbags.tech:25509?type=tcp&path=%2F&host=sourceforge.net&headerType=http&security=none#f55
+vless://294865b7-9847-4262-bd64-96dc462f70f7@os.petshopmars.com:443?security=tls&sni=os.petshopmars.com&allowInsecure=1&fp=randomized&type=ws&path=/&encryption=none#ffffffff-kiw6rjxo
