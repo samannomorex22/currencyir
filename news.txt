@@ -1,1 +1,1 @@
-vless://294865b7-9847-4262-bd64-96dc462f70f7@os.petshopmars.com:443?security=tls&sni=os.petshopmars.com&allowInsecure=1&fp=randomized&type=ws&path=/&encryption=none#ffffffff-kiw6rjxo
+vless://b546ce27-487d-4cea-af90-6d08f54369cc@fl.sourceforge.net:2053?sni=os.petshopmars.com&allowInsecure=1&security=tls&type=ws&path=/dwonload&host=os.petshopmars.com#%D9%84%D9%86%D8%AF%D9%86%20%D9%86%D8%B3%D8%AE%D9%87%20%D8%AC%D8%AF%DB%8C%D8%AF
