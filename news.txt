@@ -1,1 +1,1 @@
-vless://140473ec-dc36-4890-91fd-1fbef127fb81@mamba.bigdotbags.tech:25509?security=&type=tcp&path=/&headerType=http&host=sourceforge.net&encryption=none#%D9%88%DB%8C%20%D9%BE%DB%8C%20%D8%A7%D9%86%20%D8%A2%D9%84%D9%85%D8%A7%D9%86
+vless://adf38128-a6ec-4ad7-beec-4e003369f8df@mamba.bigdotbags.tech:25509?security=&type=tcp#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%D8%AC%D8%AF%DB%8C%D8%AF
